@@ -13,7 +13,7 @@ Storm Randolph - Computer Engineering
 We decided to approach the concept of breaking barriers by creating a fun, interactive game that integrates cultural phenomena into the product. Our game traditionally functions like brick breaker; when a brick is destroyed, a phrase from a culture appears and the user is prompted to choose where the phrase originates from.
 
 ## Why
-Our game aims to build bridges by exposing different users to new cultures. We do this by connecting them to a series of cultural phrases. By allowing the user to categorize different phrases, we hope to expose the user to new people. Also, it's fun!
+Our game aims to build bridges by exposing different users to new cultures. We do this by connecting them to a series of cultural phrases. By allowing the user to categorize different phrases, we hope to expose the user to new cultural concepts. By thinking critically about these cultures, we are building bridges between people who may have not done so previously.
 
 ## How
 Users will be able to control the paddle using their mouse. Categorizing a phrase will be done by either the J or K keys on the keyboard.
