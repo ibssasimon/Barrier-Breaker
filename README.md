@@ -2,11 +2,17 @@
 Barrier breaker is the official submission for Cal Poly SLO NSBE chapter, for the 2019 hackNSBE hackathon. 
 
 Meet the Team:
+
 Simon Ibssa - Computer Science
+
 Michael Fekadu - Computer Science
+
 Chidi Ewenike - Computer Engineering
+
 Farhan Qureshi (representing Purdue) - Computer Science
-Adela Zamori - Electrical Engineering
+
+Adela Zamora - Electrical Engineering
+
 Storm Randolph - Computer Engineering
 
 ## What
