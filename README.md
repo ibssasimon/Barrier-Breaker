@@ -4,7 +4,7 @@ Barrier breaker is the official submission for Cal Poly SLO NSBE chapter, for th
 **(Update: WE WON!!)
 
 
-Meet the Team:
+## Meet the Team
 
 Simon Ibssa - Computer Science
 
