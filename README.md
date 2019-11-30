@@ -1,6 +1,9 @@
 # Barrier-Breaker
 Barrier breaker is the official submission for Cal Poly SLO NSBE chapter, for the 2019 hackNSBE hackathon. 
+
 (Update: WE WON!!)
+
+
 Meet the Team:
 
 Simon Ibssa - Computer Science
